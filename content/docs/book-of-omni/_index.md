@@ -1,7 +1,7 @@
 ---
 weight: 14
 bookFlatSection: true
-title: "Book of Nephi [4th Nephi]"
+title: "Book of Omni"
 ---
 
 this is a test
