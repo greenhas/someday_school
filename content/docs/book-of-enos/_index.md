@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 12
 bookFlatSection: true
 title: "Book of Enos"
 ---

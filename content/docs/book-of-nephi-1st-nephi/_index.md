@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 9
 bookFlatSection: true
 title: "Book of Nephi [1st Nephi]"
 ---

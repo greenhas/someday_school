@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 8
 bookFlatSection: true
 title: "Book of Moroni"
 ---

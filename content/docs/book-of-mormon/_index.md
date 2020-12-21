@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 6
 bookFlatSection: true
 title: "Book of Mormon"
 ---
