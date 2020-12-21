@@ -1,6 +1,7 @@
 ---
 weight: 6
 bookFlatSection: true
+bookCollapseSection: true
 title: "Book of Mormon"
 ---
 

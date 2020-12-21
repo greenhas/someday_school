@@ -1,6 +1,7 @@
 ---
 weight: 11
 bookFlatSection: true
+bookCollapseSection: true
 title: "Book of Jacob"
 ---
 
