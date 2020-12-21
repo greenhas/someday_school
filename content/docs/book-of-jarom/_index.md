@@ -1,7 +1,6 @@
 ---
 weight: 13
 bookFlatSection: true
-bookCollapseSection: true
 title: "Book of Jarom"
 ---
 
