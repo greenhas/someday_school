@@ -2,7 +2,7 @@
 weight: 0
 bookFlatSection: true
 bookCollapseSection: true
-title: "About Someday School"
+title: "About"
 ---
 
 # guiding principles
