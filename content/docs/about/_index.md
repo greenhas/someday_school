@@ -43,7 +43,6 @@ title: "About"
 - added clarifying prepositions
 - added parallel structure to some sentences
 - split some sentences and added subjects
-- I have erred on the side of overusing parentheses; my preference would probably be for commas, but Book of Mormon sentences are long, which leads to a lot of commas, so I wanted to make it clear where parenthetical statements are.
 
 ### formatting
 
@@ -55,5 +54,3 @@ title: "About"
 ### punctuation
 
 From Mosiah 1 (Mosiah 2 LDS): "or the commandments of God which shall be delivered unto you by him" — a comma before which changes things
-
-
