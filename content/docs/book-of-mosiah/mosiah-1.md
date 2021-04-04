@@ -79,8 +79,6 @@ King Benjamin began to speak to his people from the tower. They could not all he
 
 > I want to call your attention again, my siblings, for I have somewhat more to speak unto you.  Behold, I have things to tell you concerning that which is to come. The things which I shall tell you are made known unto me by an angel from God. He said unto me, "Awake!" I awoke and behold, he stood before me. He said unto me:
 
-#### The angel speaks of Jesus Christ
-
 > >  "Awake and hear the words which I shall tell you! 
 
 > > "Behold, I have come to declare unto you glad tidings of great joy. The Lord has heard your prayers and judged your righteousness. He has sent me to declare unto you so that you can rejoice and so that you can declare unto your people so that they can also be filled with joy.
@@ -102,8 +100,6 @@ King Benjamin began to speak to his people from the tower. They could not all he
 > > "Behold, he judges, and his judgment is just. The infant that dies in their infancy does not perish, but people drink damnation to their own souls, except they humble themselves, become like little children, and believe that salvation was, is, and is to come in and through the atoning blood of Christ (the Lord Omnipotent). The unspiritual person is an enemy to God, has been from the fall of Adam, and will be forever and ever—except if they yield to the persuasion of the Holy Spirit, put off their unspiritual self, become a saint through the atonement of Christ (the Lord), and become like a child: submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord sees fit to inflict upon them (just like a child submits to their parent). Moreover, I say unto you that the time will come when the knowledge of a Savior will spread throughout every nation, tribe, language, and people. 
 
 > > "Behold, when that time comes, no one will be found blameless before God (except it be little children) unless they repent and have faith on the name of the Lord God Omnipotent. Even at this time, when you will have taught your people the things which the Lord your God has commanded you, then they are no more found blameless in the sight of God, except through the words which I have spoken unto you. 
-
-#### The angel concludes with the words of the Lord
 
 > >  "Now, I have spoken the words which the Lord God has commanded me. Thus says the Lord: 
 
