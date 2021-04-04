@@ -37,8 +37,6 @@ When they came up to the temple, they pitched their tents round about, every man
 
 King Benjamin began to speak to his people from the tower. They could not all hear his words because of the size of the multitude. Therefore, he caused the words he spoke to be written and sent forth among those that were not under the sound of his voice, so that they could also receive his words. These are the words which he spake and caused to be written: 
 
-### King Benjamin speaks on service. 
-
 > My siblings, all you who have assembled yourselves together, you that can hear the words which I will speak unto you this day: I have not commanded you to come up here to trifle with the words which I shall speak but so you will listen to me and open your ears that you may hear, your hearts that you may understand, and your minds that the mysteries of God may be unfolded to your view. 
 
 > I have not commanded you to come up here so that you fear me or so that you think that I, of myself, am more than a mortal man. I am like as yourselves, subject to all manner of infirmities in body and mind. Yet, I have been chosen by this people, consecrated by my father, and allowed by the hand of the Lord to be a ruler and a king over this people. I have been kept and preserved by the Lord's matchless power to serve you with all the might, mind, and strength which he has granted unto me. 
@@ -49,8 +47,6 @@ King Benjamin began to speak to his people from the tower. They could not all he
 
 > Behold, I tell you these things that you may learn wisdom, that you may learn that when you are in the service of your fellow beings, you are only in the service of your God. Behold, you have called me your king. If I, whom you call your king, do labor to serve you, then shouldn't you labor to serve one another? Behold also, if I (whom you call your king and who has spent his days in your service—and yet has been in the service of God) merit any thanks from you, O how you ought to thank your heavenly king! 
 
-### King Benjamin speaks on "unprofitable servants"
-
 > I say unto you, my siblings, that if you gave all the thanks and praise which your whole souls have power to possess to that God who has created you, kept and preserved you, caused that you should rejoice, and granted that you should live in peace one with another; I say unto you, that if you served him who has created you from the beginning, is preserving you from day to day by lending you breath (that you may live and move and do according to your own will), and is even supporting you from one moment to another; I say, if you served him with all your whole soul, you would still be unprofitable servants. 
 
 > Behold, all that he requires of you is to keep his commandments. He has promised you that if you keep his commandments, you will prosper in the land. He never varies from what he has said—therefore, if you do keep his commandments, he will bless you and prosper you. Now in the first place, he has created you and granted unto you your lives, for which you are indebted unto him. Secondly, he requires you to do as he has commanded you, for which (if you do) he immediately blesses you. Therefore, he has paid you, and you are still indebted unto him—and will be, forever and ever. Therefore, of what have you to boast? 
@@ -58,8 +54,6 @@ King Benjamin began to speak to his people from the tower. They could not all he
 > Now I ask: "Can you say anything of yourselves?" I answer you: "Nay." You cannot say that you are even as much as the dust of the earth. Although you were created of the dust of the earth, it belongs to him who created you. And I, even I, whom ye call your king, am no better than you yourselves are, for I am also of the dust. 
 
 > You see that I am old and that I am about to yield up this mortal frame to its mother earth. Therefore, as I said unto you that I had served you walking with a clear conscience before God, even so I have caused at this time that you should assemble yourselves together so that I can be found blameless and so that your blood should not come upon me when I will stand to be judged of God of the things whereof he has commanded me concerning you. I say unto you that I have caused that you should assemble yourselves together so that I can rid my garments of your blood at this period of time when I am about to go down to my grave, so that I can go down in peace and my immortal spirit may join the choirs above in singing the praises of a just God. 
-
-### King Benjamin appoints his son king
 
 > Moreover, I say unto you that I have caused that you should assemble yourselves together so that I can declare unto you that I can no longer be your teacher or your king. Even at this time, my whole frame trembles exceedingly while attempting to speak unto you, but the Lord God supports me and has allowed me to speak unto you. He has commanded me that I should declare unto you this day that my son Mosiah is a king and ruler over you. 
 
