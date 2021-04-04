@@ -1,11 +1,7 @@
 ---
 weight: 1
 ---
-{{< columns >}}
 There was no more contention in all the land of Zarahemla among all the people which belonged to King Benjamin, so King Benjamin had continual peace all the remainder of his days. 
-<--->
-test
-{{< /columns >}}
 
 ## King Benjamin speaks to his sons
 
